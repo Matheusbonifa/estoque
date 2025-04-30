@@ -38,7 +38,7 @@ $compra_id = $compra_id[0]['id'] + 1;
                 <td></td><td><input class="btn btn-primary" name="enviar" type="submit" value="Cadastrar">&nbsp;&nbsp;&nbsp;
                     <input class="btn btn-warning" name="enviar" type="button" onclick="location='index.php'" value="Voltar">
                 </td>
-            </tr>
+	    </tr>
             </form>
         </table>
         </div>
